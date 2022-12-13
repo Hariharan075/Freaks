@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=IM+Fell+Great+Primer+SC&family=Inconsolata:wght@500&family=Kanit:wght@200&family=Poppins&display=swap');
+
+
+body
+{
+    font-family: 'IM Fell Great Primer SC', serif;
+    background-image: url(../IMAGES/background4.jpeg);
+}
+
+input[type=text]
+{
+    color:blueviolet;
+    background-color: transparent;
+    padding:7px;
+    border: none;
+    border-radius: 12px;
+}
+.margin
+{
+    float: right;
+    padding-right: 30px;
+}
+button 
+{
+    padding: 9px;
+    border-radius: 12px;
+}
+.logo
+{
+    float: right;
+    padding-right: 30px;
+    font-size: 20px;
+}
+h3
+{
+    color:black;
+    text-align: center;
+    padding-left: 50px;
+}
+a
+{
+    text-decoration: none;
+    color: burlywood;
+}
+ul li
+{
+    padding-right: 50px;
+    list-style-type: none;
+    float: right;
+}
